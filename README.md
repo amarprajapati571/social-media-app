@@ -10,7 +10,6 @@ A full-stack social media application built with Next.js, Express.js, and MySQL.
 - ❤️ Like/Unlike Posts
 - 👥 Follow/Unfollow Users
 - 📱 Responsive Design
-- 🔄 Real-time Updates
 - 📸 Image Upload Support
 - 🔍 User Search
 - 📊 Post Feed with Pagination
@@ -50,6 +49,8 @@ cd social-media-app
 ```bash
 cd backend
 npm install
+npm run init-db
+npm run dev
 ```
 
 3. Create a `.env` file in the backend directory:
