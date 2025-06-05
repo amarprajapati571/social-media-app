@@ -41,7 +41,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/amarprajapati571/social-media-app.git
 cd social-media-app
 ```
 
@@ -191,4 +191,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Material-UI for the beautiful components
 - Next.js team for the amazing framework
-- Express.js team for the robust backend framework 
+- Express.js team for the robust backend framework
